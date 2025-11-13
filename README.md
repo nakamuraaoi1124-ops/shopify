@@ -15,7 +15,7 @@ A command-line tool that generates GitHub or GitLab activity graphs to make it l
 3. Create [a private repository](https://github.com/new) called `my-history` in your GitHub or GitLab.
 4. Push the changes:
    ```shell script
-   cd my-history21321
+   cd my-history
    git remote add origin git@github.com:<USERNAME>/my-history.git
    git push -u origin main
    ```
